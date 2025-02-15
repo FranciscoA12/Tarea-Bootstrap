@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+footer {
+    background-color: #8b5a2b;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
